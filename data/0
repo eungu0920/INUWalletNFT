@@ -1,0 +1,27 @@
+{
+  "image": "https://celadon-unicorn-fb9524.netlify.app/NFT/0.jpg",
+  "name": "INU #0",
+  "description": "This is Test NFT for INU Wallet",
+  "attributes": [
+    {
+      "trait_type": "Major",
+      "value": "Computer Science"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lion"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "head",
+      "value": "Blue"
+    }
+  ]
+}
