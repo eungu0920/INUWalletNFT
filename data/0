@@ -1,6 +1,6 @@
 {
   "description": "This is Test NFT for INU Wallet",
-  "image": "https://celadon-unicorn-fb9524.netlify.app/NFT/0.jpg",
+  "image": "ipfs://QmWwJkwo2GuSGQMptfKdFdUXWFX1JKtttytnkChHPDv7mD",
   "name": "INU #0",
   "attributes": [
     {
